@@ -9,3 +9,10 @@ model-viewer {
     
     background-color:black;
 }
+
+p {
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+    background-color: black;
+}
